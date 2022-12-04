@@ -5,6 +5,6 @@
 - 📫 How to reach me potentialogb10@gmail.com
 - I'm based in Akure, Nigeria
 - See my portfolio https://www.behance.net/c5621916
-a-H-0-5/a-H-0-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BigSam/BigSam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
